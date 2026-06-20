@@ -12,7 +12,7 @@ The objective of this project is to perform data analysis, identify business tre
 - Evaluate discount impact on profit
 - Track regional performance
 
-#### 3.📈 Technical Objectives
+#### 3. 📈 Technical Objectives
 - Practice SQL fundamentals
 - Use advanced SQL queries
 - Implement Views
@@ -23,7 +23,7 @@ The objective of this project is to perform data analysis, identify business tre
 - Handle Errors using Exception Handling
 - Optimize Query Performance
 
-#### 4.🛠️ Technologies Used
+#### 4. 🛠️ Technologies Used
 
    | Technology | Purpose             |
 | ---------- | ------------------- |
@@ -36,14 +36,14 @@ The objective of this project is to perform data analysis, identify business tre
 #### 5. Project Importance
 This project helps understand how SQL is used in real-world business environments.
 
-#### Benefits:
+#### 6. Benefits
 - Improves analytical skills
 - Demonstrates SQL expertise
 - Shows understanding of business reporting
 - Covers advanced database concepts
 - Strengthens portfolio for Data Analyst and SQL Developer roles
 
-#### 🚀 Conclusion
+#### 7. 🚀 Conclusion
 This project demonstrates the use of SQL and Power BI to analyze business data and provide meaningful insights 
 
 
